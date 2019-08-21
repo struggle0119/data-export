@@ -6,6 +6,7 @@
     "export"
   ],
   "license": "MIT",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "struggle0119",
